@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["rights"],{e5be:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"rights"},[t._v("Rigths")])},i=[],r={data:function(){return{}}},a=r,c=n("2877"),u=Object(c["a"])(a,s,i,!1,null,"e31e2136",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=rights.cd5bd1ec.js.map
